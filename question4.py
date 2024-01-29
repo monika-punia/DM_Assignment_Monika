@@ -7,11 +7,11 @@ def question4_2():
     return answer
 
 def question4_3():
-    answer = ['ratio', 'oridinal'] 
+    answer = ['ratio', 'ordinal'] 
     return answer
 
 def question4_4():
-    answer = ['ratio', 'oridinal']
+    answer = ['ratio', 'ordinal']
     return answer
 
 def question4_5():
@@ -19,7 +19,7 @@ def question4_5():
     return answer
 
 def question4_6():
-    answer = ['ratio', 'oridinal']
+    answer = ['ratio', 'ordinal']
     return answer
 
 def question4_7():
