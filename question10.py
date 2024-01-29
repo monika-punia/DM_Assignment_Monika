@@ -1,5 +1,6 @@
 def question10_1():
     answer = False 
+    justify = 'Count data can also be affected by noise because it can introduce variability and affect the accuracy of the counts.'
     return answer
 
 def question10_2():
