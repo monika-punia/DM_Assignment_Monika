@@ -5,14 +5,17 @@ def question10_1():
 
 def question10_2():
     answer = False 
+    justify = 'The correlation between real values is within -1 and 1 only for linear relationships; otherwise, it may vary, indicating non-linear associations or no linear correlation.'
     return answer
 
 def question10_3():
     answer = False 
+    justify = 'Aggregating reduces the size of a time series by summarizing data over intervals, preserving key patterns, while sampling may miss important details and lead to loss of information.'
     return answer
 
 def question10_4():
     answer = True 
+    justify = 'In some cases, noise in the data can manifest as outliers, where random fluctuations result in extreme values that deviate significantly from the main pattern.'
     return answer
 
 def question10_5():
