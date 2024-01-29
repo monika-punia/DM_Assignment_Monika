@@ -7,10 +7,8 @@ def question7_2():
     return answer
 
 def question7_3():
-    answer = [
-        ('-infinity', 0),  
-        (1, 3),              
-        (4, 5),              
-        (6, 'infinity')    
-    ]
+    answer = [('infinity', 0.),  
+              (1., 3.),              
+              (4., 5.),              
+              (6., 'infinity')]
     return answer
