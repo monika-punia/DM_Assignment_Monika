@@ -3,12 +3,12 @@ def question7_1():
     return answer 
 
 def question7_2():
-    answer = 'increase/decrease'
+    answer = 'non-increasing'
     return answer
 
 def question7_3():
-    answer = [('infinity', 0.),  
-              (1., 3.),              
+    answer = [(0., 4.),  
               (4., 5.),              
-              (6., 'infinity')]
+              (5., 8.),              
+              (8., 'infinity')]
     return answer
