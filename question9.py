@@ -7,7 +7,7 @@ def question9_2():
     return answer
 
 def question9_3():
-    answer = 'jaccard'
+    answer = 'euclidean'
     return answer 
 
 def question9_4():
